@@ -63,3 +63,4 @@ Every pull request will now get a visual test check badge.
 ## Why this matters
 
 Chromatic catches UI regressions that code review misses — a padding change in a shared component that breaks 12 other places, a color token that got overridden, a layout that breaks at a specific viewport. It's the difference between "it looks fine on my machine" and a pixel-level audit on every build.
+# chromatic-demo
