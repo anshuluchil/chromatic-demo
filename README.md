@@ -66,3 +66,4 @@ Chromatic catches UI regressions that code review misses — a padding change in
 # chromatic-demo
 # chromatic-demo
 # chromatic-demo
+# chromatic-demo
